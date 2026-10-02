@@ -9,8 +9,6 @@ This repository is used to practice basic Git workflows.
 
 This project demonstrates basic Git and GitHub workflows, including commits, pushes, pulls, and best practices.
 
- 
-
 ## Tools Used
 
 - Visual Studio Code
